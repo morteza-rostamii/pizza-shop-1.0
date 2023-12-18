@@ -1,0 +1,32 @@
+# Node.js / Express backend
+/node_modules/
+/dist/
+/prisma/schema.prisma
+/prisma/.env
+.env
+
+# Prisma generated files
+/prisma/.prisma/
+/prisma/client/
+
+# SQLite database
+/dev.db
+
+# React / Vite frontend
+/dist/
+/node_modules/
+.cache/
+yarn-error.log
+.pnp.js
+.vite
+
+# General
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS generated files
+Thumbs.db
+.DS_Store
